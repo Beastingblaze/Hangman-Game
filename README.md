@@ -4,6 +4,9 @@ A feature-rich **Hangman Game** built with Python, using word–hint pairs, ASCI
 
 ---
 
+<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/d3d0d34e-acd6-4824-9b48-612e776c8f9f" />
+
+---
 ## ⭐ Features
 
 ### 🔤 Word & Hint System
