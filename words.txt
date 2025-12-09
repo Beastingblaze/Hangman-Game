@@ -1,0 +1,26 @@
+apple: a fruit
+banana: a fruit
+cherry: a fruit
+dog: an animal
+elephant: an animal
+frog: an animal
+grape: a fruit
+house: a building
+ice: frozen water
+jungle: a dense forest
+kite: a flying toy
+lemon: a sour fruit
+mouse: a small animal
+night: time of darkness
+orange: a fruit or color
+piano: a musical instrument
+queen: a royal title
+rabbit: an animal
+snake: a reptile
+tiger: a big cat
+umbrella: protects from rain
+violet: a flower or color
+whale: a large sea animal
+xylophone: a musical instrument
+yellow: a color
+zebra: a striped animal
